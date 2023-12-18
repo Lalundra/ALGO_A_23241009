@@ -12,7 +12,8 @@ public class App {
 
         double waktu = input.nextDouble();
         double total = jarak/waktu;
-        System.out.println("jawaban :" + jarak + "/" + waktu + ":" + total);
+        System.out.println("jawaban :" + jarak + "/" + waktu );
+        System.out.println("hasilnya adalah " + total + "km/s");
         
         
       
